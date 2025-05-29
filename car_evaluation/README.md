@@ -1,3 +1,3 @@
 # Car Evaluation App
 
-![Frontend Screenshot](frontend.png)
+![Frontend Screenshot](car_evaluation.png)
