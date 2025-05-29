@@ -1,3 +1,3 @@
 # Breast Cancer App
 
-![Frontend Screenshot](Breast Cancer app.png)
+![Frontend Screenshot](Breast_cancer_app.png)
