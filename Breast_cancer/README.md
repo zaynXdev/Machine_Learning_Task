@@ -5,6 +5,8 @@
 
 
 
+
+
 ## 📂 Contents
 
 - **07_feature_extraction_and_classification_DS2.py**  
@@ -37,11 +39,6 @@ The Breast Cancer Classification App uses machine learning to predict whether a 
     ```
 4. **Open your browser** (Streamlit will provide a local link, usually [http://localhost:8501](http://localhost:8501)).
 
----
-
-## 🖼️ App Preview
-
-![Frontend Screenshot](Breast_Cancer_app.png)
 
 ---
 
