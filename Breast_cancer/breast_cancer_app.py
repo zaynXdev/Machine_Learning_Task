@@ -2,66 +2,6 @@ import streamlit as st
 import numpy as np
 import joblib
 from sklearn.datasets import load_breast_cancer
-
-# # Load saved objects
-# scaler = joblib.load('scaler_bc.pkl')
-# agglo = joblib.load('agglo_bc.pkl')
-# model = joblib.load('logreg_bc_model.pkl')
-#
-# # Get feature names
-# data = load_breast_cancer()
-# feature_names = data.feature_names
-#
-# st.title("Breast Cancer Prediction App")
-# st.header("Input Features")
-#
-# # Collect input for all features
-# input_values = []
-# for feature in feature_names:
-#     val = st.number_input(feature, value=float(data.data[:, list(feature_names).index(feature)].mean()))
-#     input_values.append(val)
-#
-# input_data = np.array([input_values])
-#
-# # Preprocess input with scaler and agglomeration
-# input_scaled = scaler.transform(input_data)
-# input_agglo = agglo.transform(input_scaled)
-#
-# if st.button("Predict"):
-#     pred = model.predict(input_agglo)[0]
-#     st.write("## Prediction:", "Malignant" if pred == 0 else "Benign")
-#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-import streamlit as st
-import numpy as np
-import joblib
-from sklearn.datasets import load_breast_cancer
 import pandas as pd
 
 # Load saved objects
